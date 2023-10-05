@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
             changeFragment(NewsFragment(),"News")
         }
         //TODO 2 Implement the first call of the first fragment
+        //test test
     }
 
     private fun changeFragment(fragment: Fragment, tag: String) {
